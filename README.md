@@ -1,9 +1,7 @@
 # Sobre mim
-
-- 👋 Hi, I’m @amandaisabelly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, meu nome é @amandaisabelly
+- 👍 Meu email de contato é amanda.torres.coelho@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
+- 🌱 Eu estive aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
 
 
